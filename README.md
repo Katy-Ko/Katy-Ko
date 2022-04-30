@@ -15,6 +15,7 @@
 
 <div>
     <img width="100px" src="https://github.com/Katy-Ko/Katy-Ko/blob/main/main/java-png.png" alt="JS" />
+    <img width="100px" src="https://github.com/Katy-Ko/Katy-Ko/blob/main/main/css.png" alt="CSS" />
     <img width="100px" src="https://github.com/Katy-Ko/Katy-Ko/blob/main/main/html.png" alt="HTML" />
     
 </div>
