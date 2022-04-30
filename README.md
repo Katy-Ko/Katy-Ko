@@ -17,7 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 - 👇 You can check out some of my homework below
-- 📫 How to reach me: [Telegram](@tookie_clothespin)| [LinkedIn](https://www.linkedin.com/in/katerina-kozlova77/)| [email](es.kozlova@bk.ru)
+- 📫 How to reach me: [Telegram](@tookie_clothespin)| [LinkedIn](https://www.linkedin.com/in/katerina-kozlova77/)| [Email](es.kozlova@bk.ru)
 <!--
 **Katy-Ko/Katy-Ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
