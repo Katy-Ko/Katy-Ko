@@ -14,8 +14,7 @@
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&logo=mysql&message=MySQL&label=&color=2200ff&labelColor=000000)
 
 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  
 
 
 - 👇 You can check out some of my homework below
