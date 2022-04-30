@@ -1,11 +1,29 @@
-### Hi there 👋 I'm Katerina
+# Hi there 👋😊 I'm Katerina
 
+
+- 👓 I’m currently studying on a software testing course by [Vadim Ksendzov](https://ksendzov.com)
+- 🆓 I'm looking for my first job to start an exciting journey as a software tester
+- 📚 I never stop learning and improving my skills, and now I'm mastering new tools and languages:
+
+
+    ![Postman](https://img.shields.io/static/v1?style=for-the-badge&logo=postman&message=Postman&label=&color=F05032&labelColor=000000)
+![Bash](https://img.shields.io/static/v1?style=for-the-badge&logo=gnu-bash&message=Bash&label=&color=4EAA25&labelColor=000000)
+![GitHub](https://img.shields.io/static/v1?style=for-the-badge&logo=github&message=GitHub&label=&color=8b32b8&labelColor=000000)
+![VS_Code](https://img.shields.io/static/v1?style=for-the-badge&logo=visual-studio-code&message=VS%20Code&label=&color=007ACC&labelColor=000000)
+![MySQL](https://img.shields.io/static/v1?style=for-the-badge&logo=mysql&message=MySQL&label=&color=2200ff&labelColor=000000)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+- 👇 You can check out some of my homework below
+- 📫 How to reach me: [Telegram](@tookie_clothespin)| [LinkedIn](https://www.linkedin.com/in/katerina-kozlova77/)| [email](es.kozlova@bk.ru)
 <!--
 **Katy-Ko/Katy-Ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently studying on a software testing course by [Vadim Ksendzov](https://ksendzov.com)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
