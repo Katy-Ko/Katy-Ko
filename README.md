@@ -13,8 +13,12 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&logo=mysql&message=MySQL&label=&color=2200ff&labelColor=000000)
 
+<div>
+    <img width="112px" src="https://github.com/Katy-Ko/Katy-Ko/blob/main/main/java-png.png" alt="HTML" />
+    
+</div>
 
-  
+
 
 
 - 👇 You can check out some of my homework below
