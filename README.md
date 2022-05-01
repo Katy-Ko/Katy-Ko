@@ -1,9 +1,9 @@
 # Hi 👋 My name is Katerina 😊 
-<hr>
+<hr/>
 
 ### 🎇 Welcome To My GitHub Profile 🎇</h3> 
 
-<hr>
+<hr/>
 
 
 - 👓 I’m currently studying on a software testing course by [Vadim Ksendzov](https://ksendzov.com)
