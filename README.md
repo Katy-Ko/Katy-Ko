@@ -19,7 +19,7 @@
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&logo=mysql&message=MySQL&label=&color=2200ff&labelColor=000000)
 
 <div>
-    <img width="80px" src="https://github.com/Katy-Ko/Katy-Ko/blob/main/main/java-png.png" alt="JS" />
+    <td><img width="80px" src="https://github.com/Katy-Ko/Katy-Ko/blob/main/main/java-png.png" hspace="13" alt="JS" /></td>
     <img width="80px" src="https://github.com/Katy-Ko/Katy-Ko/blob/main/main/html.png" alt="HTML" />
     
 </div>
