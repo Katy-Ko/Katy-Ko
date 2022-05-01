@@ -28,5 +28,5 @@
 
 
 - 👓 You can check out some of my homework 👉 [here](https://github.com/Katy-Ko/Hard_skills)
-- 📫 How to reach me: [Telegram](https://t.me/tookie_clothespin)| [LinkedIn](https://www.linkedin.com/in/katerina-kozlova77/)| [Email](es.kozlova@bk.ru)
+- 📫 How to reach me: [Telegram](https://t.me/tookie_clothespin)| [LinkedIn](https://www.linkedin.com/in/katerina-kozlova77/)| [Email](mailto:es.kozlova@bk.ru)
 
