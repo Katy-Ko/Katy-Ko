@@ -1,7 +1,7 @@
 # Hi 👋 My name is Katerina 😊 
 <hr>
 
-### ✨ Welcome To My GitHub Profile✨ </h3> 
+### 🎇 Welcome To My GitHub Profile 🎇</h3> 
 
 <hr>
 
