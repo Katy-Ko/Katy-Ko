@@ -20,8 +20,11 @@
 
 
 <div>
-    <td><img width="80px" src="https://github.com/Katy-Ko/Katy-Ko/blob/main/main/java-png.png" hspace="13" alt="JS" /></td>
-    <img width="80px" src="https://github.com/Katy-Ko/Katy-Ko/blob/main/main/html.png" alt="HTML" />
+    <td><img width="50px" src="https://github.com/Katy-Ko/Katy-Ko/blob/main/main/136530.png" hspace="26" alt="JS" /></td>
+    <img width="50px" src="https://github.com/Katy-Ko/Katy-Ko/blob/main/main/136525.png" alt="JSON" />
+    <img width="50px" src="https://github.com/Katy-Ko/Katy-Ko/blob/main/main/136526.png" alt="XML" />
+    <img width="50px" src="https://github.com/Katy-Ko/Katy-Ko/blob/main/main/136527.png" alt="CSS" />
+    <img width="50px" src="https://github.com/Katy-Ko/Katy-Ko/blob/main/main/136528.png" alt="HTML" />
 
 </div>
 
