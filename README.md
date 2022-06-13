@@ -22,11 +22,8 @@
 <div>
     <td><img width="80px" src="https://github.com/Katy-Ko/Katy-Ko/blob/main/main/java-png.png" hspace="13" alt="JS" /></td>
     <img width="80px" src="https://github.com/Katy-Ko/Katy-Ko/blob/main/main/html.png" alt="HTML" />
-    
+
 </div>
-
-
-
 
 - 👓 You can check out some of my homework 👉 [here](https://github.com/Katy-Ko/Hard_skills)
 - 📫 How to reach me: [Telegram](https://t.me/tookie_clothespin)| [LinkedIn](https://www.linkedin.com/in/katerina-kozlova77/)
