@@ -17,6 +17,7 @@
 ![VS_Code](https://img.shields.io/static/v1?style=for-the-badge&logo=visual-studio-code&message=VS%20Code&label=&color=007ACC&labelColor=000000)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&logo=mysql&message=MySQL&label=&color=2200ff&labelColor=000000)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <div>
     <td><img width="80px" src="https://github.com/Katy-Ko/Katy-Ko/blob/main/main/java-png.png" hspace="13" alt="JS" /></td>
