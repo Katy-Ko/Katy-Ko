@@ -7,7 +7,6 @@
 
 
 - 👓 I’m currently studying on a software testing course by [Vadim Ksendzov](https://ksendzov.com)
-- 🆓 I'm looking for my first job to start an exciting journey as a software tester
 - 📚 I never stop learning and improving my skills, and now I'm mastering new tools and languages such as:
 
    ![Postman](https://img.shields.io/static/v1?style=for-the-badge&logo=postman&message=Postman&label=&color=F05032&labelColor=000000)
