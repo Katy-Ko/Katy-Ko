@@ -1,4 +1,4 @@
-# Hi 👋 My name is Katerina 😊 
+# Hi 👋 My name is Katerina  
 <hr/>
 
 ### 🎇 Welcome To My GitHub Profile 🎇</h3> 
